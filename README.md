@@ -1,8 +1,10 @@
-# [Dice](https://www.codaworx.com/projects/dice/)
+# [Control No Control](https://iregular.io/fr/work/control-no-control/)
+
+# [Control No Control 2]([https://www.codaworx.com/projects/control-no-control/](https://www.codaworx.com/projects/control-no-control/)
 
 ## Qui?
 
-#### Auteurs : Iregular
+#### Auteur : Iregular
 
 #### Équipe de production : 
   - Directeur de création : Daniel Iregui 
@@ -18,9 +20,8 @@
 
 
 ## Quand ?
-(Date de création et de présentation)
 
-Date de création : Précisez quand l'œuvre a été créée. Mentionnez les périodes de conception, de développement, et de production si pertinent.
+#### Date de création : Précisez quand l'œuvre a été créée. Mentionnez les périodes de conception, de développement, et de production si pertinent.
 Date de première présentation : Indiquez la date à laquelle l'œuvre a été présentée au public pour la première fois.
 Dates importantes : Ajoutez toute autre date significative liée à l'œuvre, comme les dates de tournées, d'expositions ou de remises de prix.
 Où ?
