@@ -1,14 +1,23 @@
-[Lien Oeuvre]([https://github.com/user/repo/blob/branch/other_file.md](https://www.codaworx.com/projects/dice/)
+# [Dice](https://www.codaworx.com/projects/dice/)
 
-Qui ?
-(Auteur, Équipe)
+## Qui?
 
-Nom(s) de l'auteur ou des auteurs : 
-Équipe de production : 
-Collaborateurs et partenaires : Indiquez les institutions, sponsors ou partenaires qui ont contribué à la réalisation de l'œuvre.
+#### Auteurs : Iregular
+
+#### Équipe de production : 
+  - Directeur de création : Daniel Iregui 
+  - Producteur : Hind Azennar
+  - Directeur artistique : Célia Genevois
+  - Directeur Technique, Concepteur Sonore : Xavier Tremblay
+  - Directeur multimédia : Alice Sanz
+  - Programmeurs : Guillaume Turgeon, Nicolas Prud’homme, Dana Ryashy, Hugo St-Onge
+  - Écrivain : Mariam Assaf
+> [!NOTE]
+> Client : Canal Convergence Scottsdale Arts
 
 
-Quand ?
+
+## Quand ?
 (Date de création et de présentation)
 
 Date de création : Précisez quand l'œuvre a été créée. Mentionnez les périodes de conception, de développement, et de production si pertinent.
