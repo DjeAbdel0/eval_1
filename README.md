@@ -1,27 +1,22 @@
 # [Control No Control](https://iregular.io/fr/work/control-no-control/)
-
-# [Control No Control 2]([https://www.codaworx.com/projects/control-no-control/](https://www.codaworx.com/projects/control-no-control/)
-# https://harbourfrontcentre.com/event/control-no-control/
+https://awards.mediaarchitecture.org/mab/project/191
 ## Qui?
 
-#### Auteur : Iregular
+#### Auteurs : Daniel Iregui, Iregular
 
 #### Équipe de production : 
-  - Directeur de création : Daniel Iregui 
-  - Producteur : Hind Azennar
-  - Directeur artistique : Célia Genevois
-  - Directeur Technique, Concepteur Sonore : Xavier Tremblay
-  - Directeur multimédia : Alice Sanz
-  - Programmeurs : Guillaume Turgeon, Nicolas Prud’homme, Dana Ryashy, Hugo St-Onge
-  - Écrivain : Mariam Assaf
-> [!NOTE]
-> Client : Canal Convergence Scottsdale Arts
-
+  - Directeur de création : 
+  - Producteur : 
+  - Directeur artistique : 
+  - Directeur Technique, Concepteur Sonore : 
+  - Directeur multimédia : 
+  - Programmeurs : 
+  - Écrivain : 
 
 
 ## Quand ?
 
-#### Date de création : Précisez quand l'œuvre a été créée. Mentionnez les périodes de conception, de développement, et de production si pertinent.
+#### Date de création : L'oeuvre à été créée en 2011
 Date de première présentation : Indiquez la date à laquelle l'œuvre a été présentée au public pour la première fois.
 Dates importantes : Ajoutez toute autre date significative liée à l'œuvre, comme les dates de tournées, d'expositions ou de remises de prix.
 Où ?
