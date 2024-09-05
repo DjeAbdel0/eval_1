@@ -1,6 +1,7 @@
 
 VAN GOGH - Distorsion
 https://oasis.im/en/now-showing-van-gogh-distorsion/
+https://www.vangoghexhibit.ca/
 ## Qui?
 
 #### Auteurs : Daniel Iregui, Iregular
