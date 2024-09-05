@@ -4,21 +4,28 @@ https://oasis.im/en/now-showing-van-gogh-distorsion/
 https://www.vangoghexhibit.ca/
 ## Qui?
 
-#### Auteurs : Daniel Iregui, Iregular
+#### Auteurs :  Denys Lavigne et Nicolas Lassonde
 
 #### Équipe de production : 
-  - Directeur de création : 
-  - Producteur : 
-  - Directeur artistique : 
-  - Directeur Technique, Concepteur Sonore : 
-  - Directeur multimédia : 
-  - Programmeurs : 
-  - Écrivain : 
 
+  - Président et cofondateur : Denys Lavigne
+  - Cofondateur, VP Développement des affaires et Conseiller exécutif en contenu : Nicolas Lassonde
+  - Productrice exécutive : Julie Castonguay
+  - Productrice déléguée : Sophie Montmagny
+  - Coordonnatrice des opérations : Héloise Vandal-Lavigne
+  - Coordonnatrice de production : Myriam Lavoie
+  - Coordonnatrice des ventes et expérience client : Adeline Boutelou
+  - Directrice des expériences et des multimédias : Ruby-Maude Rioux
+  - Directeur de la technologie et de l'innovation : Darius Rabby
+  - Directeur technique adjoint, Contenus et expériences : Jean-Pascal Dumoulin-Comeau
+  - Technologue créative : Christine Ng
+  - Technicien en audiovisuel : Baptiste Gagné
+  - Conseiller en affaires et en finances : Louis Guindon
+  - Geneviève Cooke : Graphisme
 
 ## Quand ?
 
-#### Date de création : L'oeuvre à été créée en 2011
+#### Date de création : 
 Date de première présentation : Indiquez la date à laquelle l'œuvre a été présentée au public pour la première fois.
 Dates importantes : Ajoutez toute autre date significative liée à l'œuvre, comme les dates de tournées, d'expositions ou de remises de prix.
 Où ?
