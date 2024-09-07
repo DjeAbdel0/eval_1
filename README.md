@@ -4,24 +4,29 @@ https://oasis.im/en/now-showing-van-gogh-distorsion/
 https://www.vangoghexhibit.ca/
 ## Qui?
 
-#### Auteurs :  Denys Lavigne et Nicolas Lassonde
+#### Auteurs :  Paquin Entertainement Group
 
-#### Équipe de production : 
+#### Équipe de production : Normal Studio
 
-  - Président et cofondateur : Denys Lavigne
-  - Cofondateur, VP Développement des affaires et Conseiller exécutif en contenu : Nicolas Lassonde
-  - Productrice exécutive : Julie Castonguay
-  - Productrice déléguée : Sophie Montmagny
-  - Coordonnatrice des opérations : Héloise Vandal-Lavigne
-  - Coordonnatrice de production : Myriam Lavoie
-  - Coordonnatrice des ventes et expérience client : Adeline Boutelou
-  - Directrice des expériences et des multimédias : Ruby-Maude Rioux
-  - Directeur de la technologie et de l'innovation : Darius Rabby
-  - Directeur technique adjoint, Contenus et expériences : Jean-Pascal Dumoulin-Comeau
-  - Technologue créative : Christine Ng
-  - Technicien en audiovisuel : Baptiste Gagné
-  - Conseiller en affaires et en finances : Louis Guindon
-  - Geneviève Cooke : Graphisme
+-  Directeur de création : ***Félix Fradet-Faguy***
+-  Directeur de création exécutif : ***Mathieu St-Arnaud***
+-  Concepteur visuel – Galerie 3 : ***Georges Côté***
+-  Consultante créative : ***Fanny Curtat***
+-  Scénographe : ***Scott Reid***
+-  Réalisateur musical et sonore – Galerie 3 : ***Jean-Sébastien Côté***
+-  Directeur artistique et lead, animation – Galerie 1 : ***Achim Schuhmacher***
+-  Lead designer – Galerie 2 :***Hugues Kir***
+-  Lead, animation – Galerie 3 : ***Pierre Prieur***
+-  Animateurs : ***Daravong Thongsavath***, ***Olivier Breton***,
+***Joey Booth***, ***Michel Greco*** et ***Philip Landry***
+-  Illustratrice : ***Amélie Ouellet***
+-  Président-directeur général : ***Sébastien Grenier-Cartier***
+-  Producteur exécutif : ***Yannick Bocquet***
+-  Directeur technique : ***Christopher Whelan***
+-  Chargée de projet : ***Pei Yao Xu***
+-  Coordonnateur du contenu visuel : ***Samson Mathew***
+-  Recherchiste : ***Anne Castelain***
+
 
 ## Quand ?
 
