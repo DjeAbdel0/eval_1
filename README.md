@@ -1,8 +1,5 @@
 
-Sacred Defenders of the Universe
-https://www.vangoghexhibit.ca/](https://supply-demand.ca/fr/sacred-defenders-universe)
-
-https://www.facebook.com/jackbearpictures/places_recent
+# Sacred Defenders of the Universe
 
 ## Qui?
 
@@ -57,7 +54,7 @@ https://www.facebook.com/jackbearpictures/places_recent
 ## Quand?
 
 ### Date de création : 
-> L'ouvre fut crée en 2022 
+> L'ouvre fut crée en 2022 (Aucune date exacte trouvée)
 ### Date de première présentation : 
 > Elle fut lancée en 2023 (du 23 mars jusqu'à la fin octobre)
 ### Dates importantes : 
@@ -96,6 +93,11 @@ https://www.facebook.com/jackbearpictures/places_recent
 > Le MES offre des configurations variées qui enrichissent la narration. Avec des écrans, des systèmes de diffusion sonore rt des surfaces interactives (présentent sur quelques murs et sur le sol). Il utilise aussi un système *Augmenta* basé sur des caméras infrarouges afin de pister les spectateurs dans l’expérience et déclencher des interactions en temps réel. 
 ### Impact : 
 > Les différentes sonorités couplées aux différentés projections visuelles pousse le spectateur à se plonger dans l'univers autochtone. Les écrans montre au spectateur la beauté de la nature alors que les sons les plongent dans un état de connexion avec la nature. Ces interactions symbolise l’idée que chaque individu peut jouer un rôle de défenseur dans la protection de l'univers et de l'environnement.
+
+
+> [!NOTE]
+> Une adaptation en bande-dessinée et en série sont en cours. Vous pouvez aussi acheter du "Merch" [ici](https://sacreddefendersoftheuniverse.com/collections/all).
+
 
 ## Appréciation et commentaire personnel
 > J'ai choisi cette oeuvre, car elle raconte l'histoire des peuples autochtones avec des sons et des images qui proviennet de leur culture/traditions. Je ne suis pas allé la voir quand elle était disponible, mais les nombreuses vidéos que j'ai vu mon touché. 
