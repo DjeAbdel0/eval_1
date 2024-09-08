@@ -2,7 +2,7 @@
 ![Logo](/media/logo.jpg)
 ## Qui?
 
-#### Équipe de production : Supply+ Demand
+### Équipe de production : Supply+ Demand
 **_Jack Bear Legacy Pictures_** - Créateur  
 **_Olivier Goulet_** - Producteur Exécutif  
 **_Rémi Lapointe_** - Directeur Créatif  
