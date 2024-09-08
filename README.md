@@ -1,6 +1,5 @@
-
 # Sacred Defenders of the Universe
-
+![Logo](/media/logo.jpg)
 ## Qui?
 
 #### Équipe de production : Supply+ Demand
@@ -74,7 +73,12 @@
 ## Quoi ?
 
 ### Description générale : 
-> Cette expérience narrative suit quatre personnages héroïques autochtones, _Aqueous_, _Embers_, _Terra_ et _Areus_, dans leur quête pour protéger la nature de l’infâme Serpent à cornes. L’expérience de 15 minutes invite le public à découvrir la culture et les croyances ancestrales autochtones en interagissant avec les personnages et en s’immergeant dans la bande dessinée.  
+> Cette expérience narrative suit quatre personnages héroïques autochtones, _Aqueous_, _Embers_, _Terra_ et _Areus_, dans leur quête pour protéger la nature de l’infâme Serpent à cornes. L’expérience de 15 minutes invite le public à découvrir la culture et les croyances ancestrales autochtones en interagissant avec les personnages et en s’immergeant dans la bande dessinée.
+
+![image_2](/media/interactive_2.jpg)
+![image_3](/media/interactive_3.jpg)
+![image_4](/media/interactive_4.jpg)
+![image_5](/media/interactive_5.jpg)
 ### Objectifs de l'œuvre : 
 > L'intention des créateur est de permettre à tous les groupes d'âge de renforcer leur lien avec la nature et à mieux comprendre la conception du monde autochtone. Ils souhaitent montrer la sensibilisation et le respect envers les traditions et les savoirs autochtones" Ils visent une connexion profonde avec les coutumes de ce peuple.
 ### Public cible : 
